@@ -3,3 +3,5 @@ def helloworld(arg):
 
 
 helloworld("print")
+
+helloworld("helloworld")
