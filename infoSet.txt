@@ -1,5 +1,1 @@
-{"plate": "ads",
-"duration": 453,
-"paid": false,
-"inParkingArea": false,
-"chargeDue": 905.99}
+{"plate": "h", "duration": 6, "paid": false, "inParkingArea": false, "chargeDue": 11.99}
