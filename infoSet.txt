@@ -1,1 +1,5 @@
-"{\"plate\": \"asd\", \"duration\": 234, \"paid\": false, \"inParkingArea\": false}"
+{"plate": "ads",
+"duration": 453,
+"paid": false,
+"inParkingArea": false,
+"chargeDue": 905.99}
