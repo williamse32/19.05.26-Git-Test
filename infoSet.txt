@@ -1,0 +1,1 @@
+"{\"plate\": \"asd\", \"duration\": 234, \"paid\": false, \"inParkingArea\": false}"
